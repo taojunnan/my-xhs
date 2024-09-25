@@ -1,5 +1,7 @@
 # xhs-rpc-hook
 
+> 配合[sekiro](https://github.com/taojunnan/sekiro-open)一起使用更佳
+
 ## 免责声明
 
 **使用目的：该文件夹及其子目录下的所有资源仅供学习和研究使用。其旨在为学术和研究人员提供参考和资料，任何其他目的均不适用。**
